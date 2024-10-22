@@ -25,7 +25,7 @@ body {
 }
 
 #header img {
-    height: 60vmin;
+    height: 50vmin;
     filter: drop-shadow(#0000005b 0px 0px 0.5rem);
 }
 
@@ -114,8 +114,8 @@ body {
 
 /* Contact Section */
 #contact {
-    background-color: #333;
-    color: white;
+    background-color: #f4f4f4;
+    color: rgb(0, 0, 0);
     padding: 4rem 2rem;
     text-align: center;
     font-family: 'Chivo';
@@ -128,7 +128,7 @@ body {
     font-size: 3rem;
     margin-bottom: 2rem;
     margin-top: 3rem;
-    filter: drop-shadow(#ffffff 0px 0px 0.4rem);
+    filter: drop-shadow(#000000 0px 0px 1.5rem);
 }
 
 form {
